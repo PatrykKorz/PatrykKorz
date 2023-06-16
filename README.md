@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PatrykKorz
+- 👀 I’m interested in software testing!
+- 🌱 I’m currently learning Python, SQL :)
+- 💞️ I’m looking for fist job as manual tester!
+- I'm ISTQB Certified Tester (Foundation Level)!
